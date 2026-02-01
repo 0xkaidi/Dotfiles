@@ -23,6 +23,7 @@ audit
 autoconf
 automake
 avahi
+ayatana-ido
 babl
 base
 base-devel
@@ -71,6 +72,7 @@ db5.3
 dbus
 dbus-broker
 dbus-broker-units
+dbus-glib
 dbus-units
 dconf
 debugedit
@@ -103,6 +105,8 @@ fcitx5-gtk
 fcitx5-qt
 fcitx5-rime
 fcitx5-theme-macos12
+fcitx5-theme-ohmyrime
+fcitx5-theme-wechat
 fd
 ffmpeg
 ffmpegthumbnailer
@@ -116,6 +120,7 @@ flac
 flatpak
 flex
 fluidsynth
+foliate
 fontconfig
 fprintd
 freeglut
@@ -141,6 +146,7 @@ gflags
 giflib
 gimp
 git
+gjs
 glib-networking
 glib2
 glibc
@@ -168,6 +174,7 @@ greetd
 greetd-agreety
 greetd-dms-greeter-git
 grep
+grim
 groff
 grub
 grub-btrfs
@@ -202,6 +209,7 @@ hicolor-icon-theme
 hidapi
 highway
 hwdata
+hyphen
 iana-etc
 icu
 id3lib
@@ -222,6 +230,7 @@ jasper
 jbigkit
 jemalloc
 jq
+js140
 json-c
 json-glib
 kbd
@@ -341,6 +350,8 @@ libasyncns
 libatasmart
 libavc1394
 libavif
+libayatana-appindicator
+libayatana-indicator
 libb2
 libblockdev
 libblockdev-crypto
@@ -373,6 +384,8 @@ libcupsfilters
 libdaemon
 libdatachannel
 libdatrie
+libdbusmenu-glib
+libdbusmenu-gtk3
 libde265
 libdecor
 libdeflate
@@ -430,6 +443,7 @@ liblqr
 libluv
 libmakepkg-dropins
 libmalcontent
+libmanette
 libmd
 libmm-glib
 libmng
@@ -595,6 +609,7 @@ llvm-libs
 lm_sensors
 lmdb
 localsearch
+localsend-bin
 lsb-release
 lsof
 lua
@@ -765,6 +780,7 @@ runc
 rust
 rust-analyzer
 rust-src
+satty
 sbc
 sdl2-compat
 sdl3
@@ -779,6 +795,7 @@ shared-mime-info
 simde
 simdjson
 slang
+slurp
 snapper
 snappy
 sndio
@@ -866,6 +883,7 @@ vulkan-intel
 vulkan-mesa-implicit-layers
 wavpack
 wayland
+webkitgtk-6.0
 webrtc-audio-processing-1
 wechat-appimage
 wget
@@ -875,6 +893,7 @@ whitesur-gtk-theme
 whitesur-icon-theme
 wireplumber
 wl-clipboard
+woff2
 wolfssl
 wpa_supplicant
 wps-office-cn
@@ -925,6 +944,7 @@ zip
 zix
 zlib
 zlib-ng
+zotero
 zoxide
 zram-generator
 zsh
