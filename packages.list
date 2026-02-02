@@ -40,7 +40,9 @@ bridge-utils
 brightnessctl
 brotli
 btop
+btrfs-assistant
 btrfs-progs
+btrfsmaintenance
 bubblewrap
 bzip2
 c-ares
@@ -55,12 +57,14 @@ cava
 cdparanoia
 chafa
 clang
+cmake
 code-nautilus-git
 compiler-rt
 composefs
 containerd
 coreutils
 cpio
+cppdap
 cryptsetup
 cups
 cups-filters
@@ -92,6 +96,7 @@ easytag
 edk2-ovmf
 efibootmgr
 efivar
+electron39
 enchant
 exempi
 exiv2
@@ -221,18 +226,23 @@ inotify-tools
 intel-gmmlib
 intel-media-driver
 intel-ucode
+intellij-idea-community-edition
 iproute2
 iptables
 iputils
 iso-codes
 jansson
 jasper
+java-environment-common
+java-runtime-common
 jbigkit
+jdk21-openjdk
 jemalloc
 jq
 js140
 json-c
 json-glib
+jsoncpp
 kbd
 kconfig
 kcoreaddons
@@ -456,6 +466,7 @@ libmysofa
 libnautilus-extension
 libnbd
 libndp
+libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
@@ -630,6 +641,7 @@ md4c
 mdadm
 mesa
 minicom
+minizip
 mkinitcpio
 mkinitcpio-busybox
 mobile-broadband-provider-info
@@ -664,6 +676,7 @@ nspr
 nss
 numactl
 obs-studio
+obsidian
 ocl-icd
 oniguruma
 openal
@@ -764,6 +777,7 @@ rav1e
 rdma-core
 readline
 resvg
+rhash
 rime-bopomofo
 rime-cangjie
 rime-essay
@@ -883,6 +897,7 @@ vulkan-intel
 vulkan-mesa-implicit-layers
 wavpack
 wayland
+wayland-protocols
 webkitgtk-6.0
 webrtc-audio-processing-1
 wechat-appimage
