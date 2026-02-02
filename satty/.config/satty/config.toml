@@ -74,7 +74,7 @@ highlight = "g"
 
 # Font to use for text annotations
 [font]
-family = "Roboto"
+family = "Noto Serif SC"
 style = "Regular"
 # specify fallback fonts (NEXTRELEASE)
 # Please note, there is no default setting for these and the fonts listed below
