@@ -1,6 +1,7 @@
 7zip
 a52dec
 aalib
+aardvark-dns
 abseil-cpp
 accountsservice
 acl
@@ -13,6 +14,7 @@ alsa-lib
 alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
+ammonite
 aom
 appstream
 archlinux-keyring
@@ -29,6 +31,7 @@ base
 base-devel
 bash
 bear
+bibata-cursor-theme-bin
 binutils
 bison
 blas
@@ -52,8 +55,10 @@ ca-certificates-utils
 cairo
 capnproto
 capstone
+catatonit
 catfish
 cava
+cbindgen
 cdparanoia
 chafa
 clang
@@ -61,8 +66,11 @@ cmake
 code-nautilus-git
 compiler-rt
 composefs
+conmon
 containerd
+containers-common
 coreutils
+coursier-bin
 cpio
 cppdap
 cryptsetup
@@ -79,12 +87,14 @@ dbus-broker-units
 dbus-glib
 dbus-units
 dconf
+ddcutil
 debugedit
 default-cursors
 desktop-file-utils
 device-mapper
 dgop
 diffutils
+distrobox
 dms-shell-bin
 dnsmasq
 docker
@@ -114,6 +124,7 @@ fcitx5-theme-ohmyrime
 fcitx5-theme-wechat
 fd
 ffmpeg
+ffmpeg4.4
 ffmpegthumbnailer
 fftw
 file
@@ -215,10 +226,12 @@ hidapi
 highway
 hwdata
 hyphen
+i2c-tools
 iana-etc
 icu
 id3lib
 imagemagick
+imake
 imath
 imlib2
 iniparser
@@ -236,9 +249,13 @@ jasper
 java-environment-common
 java-runtime-common
 jbigkit
+jdk-openjdk
 jdk21-openjdk
+jdk8-openjdk
 jemalloc
 jq
+jre8-openjdk
+jre8-openjdk-headless
 js140
 json-c
 json-glib
@@ -455,6 +472,7 @@ libmakepkg-dropins
 libmalcontent
 libmanette
 libmd
+libmfx
 libmm-glib
 libmng
 libmnl
@@ -616,6 +634,7 @@ linux-headers
 linuxqq-appimage
 lld
 lldb
+llvm
 llvm-libs
 lm_sensors
 lmdb
@@ -640,6 +659,7 @@ mbedtls
 md4c
 mdadm
 mesa
+metals
 minicom
 minizip
 mkinitcpio
@@ -653,12 +673,14 @@ msgpack-c
 mtdev
 mujs
 mypaint-brushes1
+nasm
 nautilus
 nautilus-open-any-terminal
 nautilus-python
 ncurses
 ndctl
 neovim
+netavark
 nettle
 networkmanager
 nftables
@@ -704,6 +726,7 @@ pambase
 pango
 parted
 paru
+passt
 patch
 pciutils
 pcre
@@ -723,6 +746,8 @@ pipewire-pulse
 pixman
 pkgconf
 plocate
+pnpm
+podman
 polkit
 polkit-kde-agent
 polkit-qt6
@@ -788,6 +813,7 @@ rime-stroke
 rime-terra-pinyin
 ripgrep
 rnnoise
+rsync
 rtkit
 rubberband
 runc
@@ -796,6 +822,11 @@ rust-analyzer
 rust-src
 satty
 sbc
+sbt
+sc
+scala
+scala-cli
+scalafmt
 sdl2-compat
 sdl3
 seabios
@@ -895,6 +926,10 @@ vte3
 vulkan-icd-loader
 vulkan-intel
 vulkan-mesa-implicit-layers
+wasi-compiler-rt
+wasi-libc
+wasi-libc++
+wasi-libc++abi
 wavpack
 wayland
 wayland-protocols
@@ -908,6 +943,7 @@ whitesur-gtk-theme
 whitesur-icon-theme
 wireplumber
 wl-clipboard
+wl-mirror
 woff2
 wolfssl
 wpa_supplicant
@@ -935,7 +971,9 @@ xkeyboard-config
 xorg-fonts-encodings
 xorg-mkfontscale
 xorg-server-common
+xorg-server-xvfb
 xorg-setxkbmap
+xorg-xauth
 xorg-xkbcomp
 xorg-xprop
 xorg-xrandr
@@ -947,9 +985,10 @@ xwayland-satellite
 xxhash
 xz
 yaml-cpp
+yasm
 yazi
 yyjson
-zen-browser
+zen-browser-bin
 zen-browser-i18n-zh-cn
 zenity
 zeromq
