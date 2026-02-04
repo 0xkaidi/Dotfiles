@@ -22,4 +22,5 @@ alias v=nvim
 alias t=tmux
 alias lg=lazygit
 
+export EDITOR=nvim
 export PATH="$HOME/.local/bin:$PATH"

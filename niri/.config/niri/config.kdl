@@ -379,6 +379,7 @@ binds {
     Mod+Space hotkey-overlay-title="Run an Application: spotlight" { spawn "dms" "ipc" "call" "spotlight" "toggle"; }
     Super+Shift+L hotkey-overlay-title="Lock the Screen: lock" { spawn "dms" "ipc" "call" "lock" "lock"; }
     Mod+E hotkey-overlay-title="Run a File Manager: nautilus" { spawn "nautilus"; }
+    Mod+T hotkey-overlay-title="Toggle touchpad." { spawn-sh "/home/river/.local/bin/toggle_touchpad.sh"; }
     F1 hotkey-overlay-title="Run a screenshot: grim, slurp and satty" { spawn-sh "grim -g \"$(slurp -d)\" -t ppm - | satty --filename - --output-filename ~/Pictures/Screenshots/satty-$(date '+%Y%m%d-%H:%M:%S').png"; }
 
     // Use spawn-sh to run a shell command. Do this if you need pipes, multiple commands, etc.
